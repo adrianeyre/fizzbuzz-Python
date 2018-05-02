@@ -36,7 +36,7 @@ $ git clone https://github.com/adrianeyre/fizzbuzz-Python
 $ cd fizzbuzz-Python
 ```
 
-## <a name="tests">NUnit Tests</a> ##
+## <a name="tests">Unit Tests</a> ##
 
 ```python
 def fizzbuzz(num):
